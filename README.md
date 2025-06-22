@@ -40,13 +40,13 @@ As of 2025.06.22 the runtime will not produce consistent results becuase of a bu
 
 ## Credits
 
-Korea University 2025,
+Korea University 2025 Spring Semester
 
 Course: DATA303-00: Advanced Machine Learning
 
 ### Instructor
 
-김성웅
+Professor 김성웅
 
 ### Group Members
 
