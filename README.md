@@ -50,6 +50,6 @@ Professor 김성웅
 
 ### Group Members
 
-- 국회영
+- 국희영
 - 오예준
 - MITZEUS DENNIS MIKAEL
