@@ -1,5 +1,7 @@
 # 2025 DATA303 Project - Group 4
 
+### $${\color{red}\text{Improvements will no longer be made to this project.}}$$
+
 ## Paper Selected:
 
 B. Pang. _Learning Latent Space Energy-Based Prior Model_. 2020. https://arxiv.org/pdf/2006.08205
